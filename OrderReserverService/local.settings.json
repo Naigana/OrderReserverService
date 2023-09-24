@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=cloudxinfrastructur97ba;AccountKey=V1SLNBrzGALmVVnCOKt0FHaxVux2yo8THrQz9W7QfvdH3xKW66OewyeYrSvXkDVbhtf4JZz0GrdC+AStbJonHA==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ServiceBusConnection": "Endpoint=sb://order-reserver-bus.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=k0rgwFjcHjEQDiWx+zt1bkUJGyFhgUxJ9+ASbHLU8oE=",
+    "LogicAppConnection": "https://prod-222.westeurope.logic.azure.com:443/workflows/f78e0379d736498c87905080b1045669/triggers/manual/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=76yYTYtF0yVRqumO_OQnUvtwuBrDEjYgf_WLweQiIEA"
+  }
+}
